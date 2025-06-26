@@ -2,4 +2,4 @@
 creating demo repo first time
     
 # student
-pushpendra sahu.
+Pushpendra sahu.
